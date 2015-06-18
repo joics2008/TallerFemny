@@ -1,0 +1,26 @@
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\bin\Debug\Actualizador de Enterprise Basico.exe.manifest
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\bin\Debug\Actualizador de Enterprise Basico.application
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\bin\Debug\Actualizador de Enterprise Basico.exe
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\bin\Debug\Actualizador de Enterprise Basico.pdb
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.csprojResolveAssemblyReference.cache
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador_de_Enterprise_Basico.Form1.resources
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador_de_Enterprise_Basico.Properties.Resources.resources
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.csproj.GenerateResource.Cache
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.TrustInfo.xml
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.exe.manifest
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.application
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.exe
+D:\Programaciones\Actualizador de Enterprise Basico\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.pdb
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.exe
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.pdb
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\bin\Debug\Actualizador de Enterprise Basico.exe.manifest
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\bin\Debug\Actualizador de Enterprise Basico.application
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\bin\Debug\Actualizador de Enterprise Basico.exe
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\bin\Debug\Actualizador de Enterprise Basico.pdb
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.csprojResolveAssemblyReference.cache
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador_de_Enterprise_Basico.Form1.resources
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador_de_Enterprise_Basico.Properties.Resources.resources
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.csproj.GenerateResource.Cache
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.TrustInfo.xml
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.exe.manifest
+D:\Programaciones\Actualizador de Enterprise Basico Net 4\Actualizador de Enterprise Basico\obj\x86\Debug\Actualizador de Enterprise Basico.application
